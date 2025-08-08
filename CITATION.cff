@@ -9,7 +9,7 @@ repository-code: "https://github.com/JAMTUPAY/paper4-entropy-neutron-stars"
 license: MIT
 version: v1.0.0
 date-released: 2025-08-08
-doi: 10.5281/zenodo.16782886
+doi: 10.5281/zenodo.16783040
 
 preferred-citation:
   type: article
@@ -19,5 +19,5 @@ preferred-citation:
       given-names: Johann Anton Michael
       orcid: "https://orcid.org/0009-0008-7661-8698"
   year: 2025
-  doi: 10.5281/zenodo.16782886
+  doi: 10.5281/zenodo.16783040
   url: "https://github.com/JAMTUPAY/paper4-entropy-neutron-stars"
