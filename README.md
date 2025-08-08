@@ -126,15 +126,15 @@ One universal QCD constant governs neutron star observables without astrophysica
 
 ⸻
 Citation
-@article{tupay2025ns_entropy_bound,
-  author = {Tupay, Johann Anton Michael},
-  title  = {Entropy-Constrained Neutron Stars from a Universal QCD Bound},
-  year   = {2025},
-  month  = aug,
-  publisher = {Zenodo},
-  url    = {https://github.com/JAMTUPAY/paper4-entropy-neutron-stars}
+@software{tupay_ns_entropy_bound_2025,
+  author    = {Tupay, Johann Anton Michael},
+  title     = {Entropy-Constrained Neutron Stars from a Universal QCD Bound (data \& code)},
+  year      = {2025},
+  version   = {v1.0.0},
+  doi       = {10.5281/zenodo.16783040},
+  url       = {https://github.com/JAMTUPAY/paper4-entropy-neutron-stars},
+  license   = {MIT}
 }
-
 
 ⸻
 
