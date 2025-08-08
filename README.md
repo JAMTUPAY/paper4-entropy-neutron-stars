@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # Entropy-Constrained Neutron Stars: Universal QCD Bound Predicts \(M_{\max}\) & \(\Lambda_{1.4}\)
 
 **DOIs:**  
@@ -136,9 +136,6 @@ Citation
 }
 
 
-Author
-
-
 ⸻
 
 Author
@@ -153,6 +150,6 @@ ORCID: 0009-0008-7661-8698
 License
 
 MIT License — see LICENSE.
-EOF
+
 
 
