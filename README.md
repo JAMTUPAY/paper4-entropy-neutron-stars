@@ -1,7 +1,7 @@
 
 # Entropy-Constrained Neutron Stars: Universal QCD Bound Predicts \(M_{\max}\) & \(\Lambda_{1.4}\)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16782886.svg)](https://doi.org/10.5281/zenodo.16782886) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16783040.svg)](https://doi.org/10.5281/zenodo.16783040)
 - **Paper 1:** Universal Entropy–Mass Relation in QCD — [10.5281/zenodo.16743904](https://doi.org/10.5281/zenodo.16743904)  
 - **Paper 2:** Entropy-Forbidden Exotic Hadrons — [10.5281/zenodo.16752674](https://doi.org/10.5281/zenodo.16752674)  
 - **Paper 3:** Universal Entropy Threshold for QGP Formation — [10.5281/zenodo.16762323](https://doi.org/10.5281/zenodo.16762323)  
