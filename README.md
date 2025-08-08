@@ -40,7 +40,7 @@ This repository contains **all data, code, figures, and LaTeX source** to reprod
 - EOS remains causal: \(0 \le c_s^2/c^2 \le 1\).
 
 ---
-
+```
 ## Repository Structure
 paper4-entropy-neutron-stars/
 ├── code/
@@ -71,6 +71,8 @@ paper4-entropy-neutron-stars/
 ├── run_all.sh
 ├── LICENSE
 └── README.md
+
+```
 ---
 
 ## Quick Start
