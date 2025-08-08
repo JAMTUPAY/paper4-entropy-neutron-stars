@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "Entropy-Constrained Neutron Stars from a Universal QCD Bound (data & code)"
+authors:
+  - family-names: Tupay
+    given-names: Johann Anton Michael
+    orcid: "https://orcid.org/0009-0008-7661-8698"
+repository-code: "https://github.com/JAMTUPAY/paper4-entropy-neutron-stars"
+license: MIT
+version: v1.0.0
+date-released: 2025-08-08
+
+preferred-citation:
+  type: article
+  title: "Entropy-Constrained Neutron Stars from a Universal QCD Bound"
+  authors:
+    - family-names: Tupay
+      given-names: Johann Anton Michael
+      orcid: "https://orcid.org/0009-0008-7661-8698"
+  year: 2025
+  url: "https://github.com/JAMTUPAY/paper4-entropy-neutron-stars"
